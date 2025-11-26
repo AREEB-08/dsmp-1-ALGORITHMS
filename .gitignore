@@ -1,0 +1,8 @@
+# Ignore feature selection folder
+feature_selection/
+
+# Ignore gradient boosting folder
+gradient_boosting/
+
+# Ignore all .ipynb checkpoint folders
+**/.ipynb_checkpoints/
